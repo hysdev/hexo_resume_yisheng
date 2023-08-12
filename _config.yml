@@ -11,10 +11,8 @@ avatar: https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/avatar/avatar.png
 theme: resume
 theme_config:
   robots: index,follow
-# URL
-## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://resume.js.org
-# url: http://localhost:4000
+
+url: https://hexo-resume-yisheng.vercel.app/
 root: /
 permalink: posts/:title/
 tag_dir: tags
@@ -117,30 +115,10 @@ import:
   - "<link rel='manifest' href='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/favicon/site.webmanifest'>"
   # script:
 
-# Offline
-## Config passed to sw-precache
-## https://github.com/JLHwung/hexo-offline
-# offline config passed to sw-precache.
-offline:
-  maximumFileSizeToCacheInBytes: 10485760
-  staticFileGlobs:
-    - public/**/*.{js,html,css,png,jpg,gif,svg,eot,ttf,woff,woff2}
-  stripPrefix: public
-  verbose: true
-  runtimeCaching:
-    - urlPattern: /*
-      handler: cacheFirst
-      options:
-        origin: cdn.jsdelivr.net
-    - urlPattern: /*
-      handler: cacheFirst
-      options:
-        origin: cdnjs.cloudflare.com
+
 
 nofollow:
   enable: true
-  exclude:
-    - xaoxuu.com
 
 
 # npm i hexo-neat
