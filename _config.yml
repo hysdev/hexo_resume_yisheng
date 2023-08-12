@@ -152,19 +152,7 @@ neat_enable: true
 lazyload:
   enable: true
   onlypost: false
-  loadingImg: https://img.vim-cn.com/92/d570170f4f12e1ee829ca0e85a7dffeb77343a.svg
-
-
-# 百度统计key
-# baidu_analytics_key: cd037d28d6a6eaf5b81b7c9b024741cc
-
-# Deployment
-## Docs: http://zespia.tw/hexo/docs/deployment.html
-deploy:
-  - type: git
-    repo: https://github.com/xaoxuu/resume.js.org.git
-    branch: master
-    message: update pages
+  loadingImg: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mN0AgMLAAsAAgAAI8AA8AA8AA8AA8AA8AA8AA8AA8AAwP/omnGAAAAAElFTkSuQmCC
 
 feed:
   type: atom
