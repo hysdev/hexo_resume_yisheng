@@ -185,15 +185,3 @@ robots: noindex,nofollow
 # the footer of your site
 copyright: '[Copyright © 2017-2020 Mr. X](https://xaoxuu.com)'
 ```
-
-## Comments
-
-{% raw %}
-<script src="https://utteranc.es/client.js"
-        repo="xaoxuu/hexo-theme-resume"
-        issue-number="17"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
-{% endraw %}
