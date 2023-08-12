@@ -227,14 +227,3 @@ robots: noindex,nofollow
 copyright: '[Copyright © 2017-2020 Mr. X](https://xaoxuu.com)'
 ```
 
-## 评论
-
-{% raw %}
-<script src="https://utteranc.es/client.js"
-        repo="xaoxuu/hexo-theme-resume"
-        issue-number="18"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
-{% endraw %}
