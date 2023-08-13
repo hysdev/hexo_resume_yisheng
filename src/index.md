@@ -25,7 +25,7 @@ contact:
     url: tel:10086
 # PDF Download Link
 download:
-  title: Download
+  title: 简历下载
   icon: fas fa-download fa-fw
   url: https://github.com/xaoxuu/resume-docs
 ---
