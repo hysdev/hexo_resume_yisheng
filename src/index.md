@@ -13,11 +13,11 @@ avatar: https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/avatar/avatar.png
 contact:
   # URL
   - icon: fas fa-globe-europe
-    text: https://resume.js.org
+    text: Blog://resume.js.org
     url: https://resume.js.org
   # URL
   - icon: fas fa-globe-europe
-    text: https://resume.js.org
+    text: Homepage://resume.js.org
     url: https://resume.js.org
   # Email
   - icon: fas fa-envelope
