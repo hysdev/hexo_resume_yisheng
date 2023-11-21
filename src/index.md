@@ -97,21 +97,27 @@ Physics Master’s graduate with expertise in condensed matter physics, speciali
 {% endraw %}
 
 ### JadePanel.com
+
 #### Java/React
+
 - A family financial management system based on Spring Boot 3.1.
 - Leveraged MySQL and Java on the backend, utilizing a Spring Cloud microservices architecture.
 - Implemented a user-friendly interface using Ant.Design Pro for seamless interaction.
 - [GitHub Repo](https://github.com/yishengh/jadepanel)
 
 ### RubyChats.com
+
 #### Java/Vue
+
 - Web-based chat application modeled after WeChat, featuring private and group messaging, offline messages, image/file sharing, and friend status display.
 - Developed with Spring Boot and Netty for the backend and Vue.js for the frontend.
 - Supports clustered deployment, with each IM server handling messages for its connected users.
 - [GitHub Repo](https://github.com/yishengh/rubychats)
 
 ### BuGrammer.com
+
 #### Blog
+
 - A personal blog website built on the Halo platform.
 - Designed for language adaptability, featuring Pjax for seamless page loading and adapting to various client devices.
 - [Website](https://bugrammer.com)
