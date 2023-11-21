@@ -14,18 +14,18 @@ contact:
   # URL
   - icon: fas fa-globe-europe
     text: Blog://huangyisheng.com
-    url: http://huangyisheng.com
+    url: https://huangyisheng.com
   # URL
   - icon: fas fa-globe-europe
     text: Homepage://huangyisheng.com
-    url: http://huangyisheng.com
+    url: https://huangyisheng.com
   # Email
   - icon: fas fa-envelope
     text: me@huangyisheng.com
-    url: 
+    url:
   # Phone Number
   - icon: fas fa-phone-alt
-    text: 667-660-6667
+    text: 6676606667
     url: tel:6676606667
 # PDF Download Link
 download:
