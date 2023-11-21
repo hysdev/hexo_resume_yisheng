@@ -13,20 +13,20 @@ avatar: https://cdn.jsdelivr.net/gh/hysdev/hexo_resume_yisheng@main/themes/resum
 contact:
   # URL
   - icon: fas fa-globe-europe
-    text: Blog://huangyisheng.com
-    url: http://huangyisheng.com
+    text: Blog://resume.js.org
+    url: https://resume.js.org
   # URL
   - icon: fas fa-globe-europe
-    text: Homepage://huangyisheng.com
-    url: http://huangyisheng.com
+    text: Homepage://resume.js.org
+    url: https://resume.js.org
   # Email
   - icon: fas fa-envelope
-    text: me@huangyisheng.com
-    url: mailto:me@huangyisheng.com
+    text: your email
+    url:
   # Phone Number
   - icon: fas fa-phone-alt
-    text: 667 660 6667
-    url: tel:6676606667
+    text: 1xxxxxxxxxx
+    url: tel:10086
 # PDF Download Link
 download:
   title: 简历下载
