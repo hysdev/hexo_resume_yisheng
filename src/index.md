@@ -25,7 +25,7 @@ contact:
     url: 
   # Phone Number
   - icon: fas fa-phone-alt
-    text: 667 660 6667
+    text: 667-660-6667
     url: tel:6676606667
 # PDF Download Link
 download:
