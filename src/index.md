@@ -1,3 +1,4 @@
+---
 # Language (Optional)
 lang: en
 # Site Keywords & Description
@@ -32,7 +33,7 @@ contact:
 download:
   title: 简历下载
   icon: fas fa-download fa-fw
-  url: [Your PDF Download URL]
+  url: https://ooo.0x0.ooo/2023/11/21/Orx5IK.png
 
 ---
 
@@ -46,8 +47,8 @@ download:
 
 Please directly download the source code of this site and refer to the source code for rewriting.
 
-- Site Source code: [Your GitHub Repo for the site source code]
-- Theme source code: [Your GitHub Repo for the theme source code]
+- Site Source code: https://ooo.0x0.ooo/2023/11/21/Orx5IK.png
+- Theme source code: https://ooo.0x0.ooo/2023/11/21/Orx5IK.png
 
 ## <i class="fas fa-user-graduate"></i> Education
 
