@@ -7,8 +7,8 @@ description: This is a cool resume theme for hexo.
 # Resume Title
 resume_title: Yisheng's Resume
 # Job Applicant Name
-name: Jon Snow
-avatar: https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/avatar/avatar.png
+name: Yisheng Huang
+avatar: https://cdn.jsdelivr.net/gh/hysdev/hexo_resume_yisheng@main/themes/resume/yishengavt.png
 # Contact
 contact:
   # URL
