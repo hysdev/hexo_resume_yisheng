@@ -43,31 +43,40 @@ download:
 
 ## <i class="fas fa-flag"></i> Getting Started
 
-Please directly download the source code of this site and refer to the source code for rewriting.
-
-- Site Source code: https://github.com/xaoxuu/resume-docs
-- Theme source code: https://github.com/xaoxuu/hexo-theme-resume
+Physics Master’s graduate with expertise in condensed matter physics, specializing in molecular dynamics modeling. Possesses hands-on experience in Java development and a solid foundation in computer science. Proven ability to contribute to the development of complex systems and applications.
 
 
 ## <i class="fas fa-user-graduate"></i> Education
 
-**XX University X College X Course X Major X Graduation**
+**9/2021 - 12/2023: Master of Science in Physics**
+- Virginia Tech, VA
+- Thesis research focused on molecular dynamics and its applications.
+
+**9/2017 - 5/2021: Bachelor of Science in Computer Science**
+- Virginia Tech, VA
+- Specialized in algorithm design and machine learning.
+
+**9/2017 - 5/2021: Bachelor of Arts in Physics**
+- Virginia Tech, VA
+- Explored the intersection of physics and computational modeling.
 
 
 ## <i class="fas fa-user-tie"></i> Work Experience
 
 
-#### 2000 ~ Present: Company XX
+#### 9/2021 ~ 12/2023: Research Assistant
+- Virginia Tech, VA
+- Conducted research in condensed matter physics, specializing in building molecular dynamics models for polymers and droplets.
+- Developed multi-threaded code for data processing.
+- Administered office cluster computers, orchestrating software upgrades for optimal performance.
+- Technologies: LAMMPS, Python, MATLAB, Mathematica
 
-- Mainly responsible for XXX
+#### 5/2021 ~ 3/2023 (Volunteer): IT Coordinator
+- Blacksburg Chinese School, VA
+- Managed school's digital infrastructure, overseeing website, email systems, YouTube Channel, and implementing online learning platforms for remote education.
+- Provided technical support, ensuring seamless operation of digital tools, and maintained office equipment including printers.
+- Technologies: Google Sites, Mailchimp, YouTube
 
-#### 1900 ~ 2000: Company XX
-
-- Mainly responsible for XXX
-
-#### 1800 ~ 1900: company XX
-
-- Mainly responsible for XXX
 
 
 
@@ -84,55 +93,34 @@ Please directly download the source code of this site and refer to the source co
   <img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/het-cyanglao/icon.png'>
   C养老
 </a>
-<a href='https://apps.apple.com/cn/app/c-life%E5%85%BB%E8%80%81/id1393937890'>
-  <img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/het-clife/icon.png'>
-  C-Life养老
-</a>
-<a href='https://apps.apple.com/cn/app/linksmart/id1109303355'>
-  <img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/ht-linksmart/icon.png'>
-  LinkSmart
-</a>
-<a href='https://apps.apple.com/cn/app/hitfit/id1207738581'>
-  <img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/ht-hitfit/icon.png'>
-  HitFit
-</a>
-<a href='https://apps.apple.com/cn/app/%E8%85%95%E8%83%BD%E5%8A%A9%E6%89%8B/id1138242219'>
-  <img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/ht-fiyta/icon.png'>
-  飞亚达腕能助手
-</a>
 </btns><br>
 {% endraw %}
 
+### JadePanel.com
 
-### Project A
+#### Java/React
 
-#### 2000/01 ~ 2019/01: Developed by XX company, team project, maintenance so far
+- A family financial management system based on Spring Boot 3.1.
+- Leveraged MySQL and Java on the backend, utilizing a Spring Cloud microservices architecture.
+- Implemented a user-friendly interface using Ant.Design Pro for seamless interaction.
+- [GitHub Repo](https://github.com/yishengh/jadepanel)
 
-啦啦啦
+### RubyChats.com
 
-### Project B
+#### Java/Vue
 
-#### 1900/01 ~ 2000/01: Developed by XX company
+- Web-based chat application modeled after WeChat, featuring private and group messaging, offline messages, image/file sharing, and friend status display.
+- Developed with Spring Boot and Netty for the backend and Vue.js for the frontend.
+- Supports clustered deployment, with each IM server handling messages for its connected users.
+- [GitHub Repo](https://github.com/yishengh/rubychats)
 
-啦啦啦
+### BuGrammer.com
 
-### Project C
+#### Blog
 
-#### 1800/01 ~ 1900/01: Developed by XX company
-
-啦啦啦
-
-## <i class="fab fa-github"></i> Open Source Contributions
-
-
-### Volantis
-
-#### 2017 ~ Present, a wonderful blog theme for Hexo 4.2
-
-- 完全自由的模块化、易于定制化设计
-- 移动端优化
-- 源码：https://github.com/xaoxuu/hexo-theme-volantis
-- 官网：https://volantis.js.org/
+- A personal blog website built on the Halo platform.
+- Designed for language adaptability, featuring Pjax for seamless page loading and adapting to various client devices.
+- [Website](https://bugrammer.com)
 
 ### ProHUD
 
@@ -163,7 +151,3 @@ Please directly download the source code of this site and refer to the source co
 
 <i class="fas fa-envelope fa-fw"></i> your email
 <i class="fas fa-phone-alt fa-fw"></i> 1xxxxxxxxxx
-
-
-
-
