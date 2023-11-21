@@ -25,8 +25,8 @@ contact:
     url:
   # Phone Number
   - icon: fas fa-phone-alt
-    text: 6676606667
-    url: tel:6676606667
+    text: 1xxxxxxxxxx
+    url: tel:10086
 # PDF Download Link
 download:
   title: 简历下载
