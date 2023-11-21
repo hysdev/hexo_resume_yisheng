@@ -82,6 +82,21 @@ Physics Master’s graduate with expertise in condensed matter physics, speciali
 
 ## <i class="fas fa-award"></i> Featured Projects
 
+
+{% raw %}
+<btns rounded>
+<a href='https://apps.apple.com/cn/app/heart-mate-pro-hrm-utility/id1463348922?ls=1'>
+  <img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/heartmate/icon.png'>
+  心率管家
+</a>
+<a href='https://apps.apple.com/cn/app/c%E5%85%BB%E8%80%81/id1458315594'>
+  <img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/het-cyanglao/icon.png'>
+  C养老
+</a>
+</btns><br>
+{% endraw %}
+
+
 ### JadePanel.com
 
 #### Java/React
@@ -107,6 +122,30 @@ Physics Master’s graduate with expertise in condensed matter physics, speciali
 - A personal blog website built on the Halo platform.
 - Designed for language adaptability, featuring Pjax for seamless page loading and adapting to various client devices.
 - [Website](https://bugrammer.com)
+
+### ProHUD
+
+#### 2019/08 ~ present, HUD library with easy customization and simple interface
+
+- 使用Swift5编写。
+- 包含顶部通知横幅、弹窗、底部操作表三种使用场景的UI控件。
+- 易于配置UI从而满足公司各业务线的UI要求，接口调用简单明了。
+- 源码：https://github.com/xaoxuu/ProHUD
+
+<fancybox>
+<img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/prohud/screenshot01.png'>
+<img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/prohud/screenshot02.png'>
+<img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/prohud/screenshot03.png'>
+<img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/prohud/screenshot04.png'>
+<img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/prohud/screenshot05.png'>
+<img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/prohud/screenshot06.png'>
+<img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/prohud/screenshot07.png'>
+<img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/prohud/screenshot08.png'>
+<img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/prohud/screenshot09.png'>
+<img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/prohud/screenshot10.png'>
+</fancybox>
+
+
 
 ## <i class="fas fa-phone-alt"></i> Contact
 
