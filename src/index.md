@@ -13,11 +13,11 @@ avatar: https://cdn.jsdelivr.net/gh/hysdev/hexo_resume_yisheng@main/themes/resum
 contact:
   # URL
   - icon: fas fa-globe-europe
-    text: Blog://huangyisheng.com
-    url: https://huangyisheng.com
+    text: Blog://BuGrammer.com
+    url: https://BuGrammer.com
   # URL
   - icon: fas fa-globe-europe
-    text: Homepage://huangyisheng.com
+    text: Huangyisheng.com
     url: https://huangyisheng.com
   # Email
   - icon: fas fa-envelope
@@ -25,7 +25,7 @@ contact:
     url:
   # Phone Number
   - icon: fas fa-phone-alt
-    text: 1xxxxxxxxxx
+    text: 6676606667
     url: tel:10086
 # PDF Download Link
 download:
