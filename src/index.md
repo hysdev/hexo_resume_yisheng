@@ -26,12 +26,12 @@ contact:
   # Phone Number
   - icon: fas fa-phone-alt
     text: 6676606667
-    url: tel:6676606667
+    url: tel:10086
 # PDF Download Link
 download:
-  title: CV Download
+  title: 简历下载
   icon: fas fa-download fa-fw
-  url: https://cdn.jsdelivr.net/gh/hysdev/hexo_resume_yisheng@main/CV_Developer.pdf
+  url: https://github.com/xaoxuu/resume-docs
 ---
 
 {% raw %}
@@ -79,6 +79,7 @@ Physics Master’s graduate with expertise in condensed matter physics, speciali
 
 
 
+
 ## <i class="fas fa-award"></i> Featured Projects
 
 
@@ -94,7 +95,6 @@ Physics Master’s graduate with expertise in condensed matter physics, speciali
 </a>
 </btns><br>
 {% endraw %}
-
 
 ### JadePanel.com
 
@@ -145,10 +145,9 @@ Physics Master’s graduate with expertise in condensed matter physics, speciali
 </fancybox>
 
 
-
 ## <i class="fas fa-phone-alt"></i> Contact
 
-目前状态为：在职，考虑换工作，100年内可到岗。
+目前状态为：灵活就业，100年内可到岗。
 
 <i class="fas fa-envelope fa-fw"></i> your email
 <i class="fas fa-phone-alt fa-fw"></i> 1xxxxxxxxxx
