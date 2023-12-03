@@ -79,7 +79,6 @@ Physics Master’s graduate with expertise in condensed matter physics, speciali
 
 
 
-
 ## <i class="fas fa-award"></i> Featured Projects
 
 
